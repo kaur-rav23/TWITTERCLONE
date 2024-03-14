@@ -1,0 +1,14 @@
+.news-container{
+    width:350px;
+}
+.image{
+    height: 50px;
+    width: 180px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-size: 100%;
+}
+.image img{
+    height: 50px;
+    width: 180px;
+}
